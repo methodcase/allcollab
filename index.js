@@ -6,3 +6,4 @@ const x = [
 ]
 
 const test = 'test'
+const list = [1,2,3,4,5]
