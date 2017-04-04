@@ -4,3 +4,5 @@ const x = [
   {key:'key1', value: 3},
   {key:'key3', value: 4}
 ]
+
+const test = 'test'
